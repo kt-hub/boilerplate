@@ -13,5 +13,6 @@ console.log(i);
 }
 ```
 ```php
+<?php
 var_dump(1);
 ```
